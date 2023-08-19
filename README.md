@@ -10,7 +10,7 @@
 - 💬 Ask me about *anything , Would love to answer them.✌*
 
 - 📫 How to reach me *All Social media platorms*
-- Visit my Portfolio- <a href="https://ornate-taffy-90f050.netlify.app/">Link</a>
+- Visit my Portfolio<a href="https://ornate-taffy-90f050.netlify.app/"> -Link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
