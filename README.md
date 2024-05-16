@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on *Full Stack Developer*
 
-- 🌱 I’m currently learning *Python, Web Development*
+- 🌱 I’m currently learning *React, MERN Development*
 
 - 💬 Ask me about *anything , Would love to answer them.✌*
 
